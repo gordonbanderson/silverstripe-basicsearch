@@ -8,9 +8,6 @@
 
 namespace Suilven\BasicSearch;
 
-
-use SilverStripe\ORM\DataObject;
-
 class SearchPage extends \Page
 {
 

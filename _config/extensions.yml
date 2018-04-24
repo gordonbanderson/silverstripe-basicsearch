@@ -1,0 +1,7 @@
+---
+name: suilven-basic-search
+---
+
+PageController:
+  extensions:
+    - Suilven\BasicSearch\FindSearchPageExtension

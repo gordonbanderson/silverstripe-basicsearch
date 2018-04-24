@@ -9,6 +9,11 @@
 namespace Suilven\BasicSearch;
 
 
+use SilverStripe\CMS\Search\SearchForm;
+use SilverStripe\Control\HTTPRequest;
+use SilverStripe\Forms\FieldList;
+use SilverStripe\Forms\RequiredFields;
+use SilverStripe\Forms\TextField;
 use SilverStripe\ORM\DataObject;
 use SilverStripe\Security\Member;
 
